@@ -15,7 +15,7 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 
 > ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
 	
-# Installation
+# In
 **Jekyll is a Ruby Gem that can be installed on most systems.**
 ### Requirements
 * [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
@@ -35,7 +35,7 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 
 Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
 
-### Changing into the Directory
+### Cha
 **We have to go inside the directory:**<br>
 > # `cd my-site`
 
@@ -46,5 +46,6 @@ Again, `my-site` is just a random name which is customizable.
 
 ### Browsing your Jekyll site
 > # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
+
 
 ###### On encountering any problem while building and serving your Jekyll site you can consider visiting to the [troubleshooting](https://jekyllrb.com/docs/troubleshooting/#configuration-problems){:target="_blank"} page
