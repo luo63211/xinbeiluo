@@ -15,9 +15,17 @@ layout: compress
         <div class="hero-body">
             <div class="container has-text-centered">
                 <div class="section">
-                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Projects</p>
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Game Projects</p>
                 </div>
-                {% include project-card.html %}
+                {% include project-card-game.html %}
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Architecture Projects</p>
+                </div>
+                {% include project-card-arch.html %}
+                <div class="section">
+                    <p class="subtitle is-uppercase has-text-weight-medium has-text-grey">Installation Projects</p>
+                </div>
+                {% include project-card-inst.html %}
             </div>
         </div>
     </section>
